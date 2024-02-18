@@ -8,4 +8,4 @@
 
 4、root guide
 
-5、firmware recovery tool
+5、firmware recovery tool(look in Release for .ingenic files)
